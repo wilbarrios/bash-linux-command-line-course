@@ -1,3 +1,9 @@
+# Practice 1 Quiz 1
+
+Introduction quiz
+
+[Udemy](https://www.udemy.com/course/bash-scripting/)
+
 ## Exercise 1:
 
 Write a shell script that prints "Shell Scripting is Fun!" to the screen.
