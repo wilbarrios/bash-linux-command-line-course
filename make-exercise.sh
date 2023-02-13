@@ -1,6 +1,9 @@
 #!/bin/bash
 
-mkdir practice-$1
+if [ ! -e practice-$1 ]; then
+  mkdir practice-$1
+fi
+
 cd practice-$1
 touch exercise-$2.sh
 chmod +x exercise-$2.sh
